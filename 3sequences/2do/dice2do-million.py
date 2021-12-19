@@ -1,0 +1,3 @@
+#
+# one-million dice throws
+#
