@@ -16,6 +16,8 @@ employees.get('jrg2')
 employees.keys()
 employees.values()
 
+#
 #py2
+#
 employees.has_key('jrg2')
 employees.has_key('jrg3')
