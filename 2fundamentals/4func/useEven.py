@@ -9,7 +9,7 @@ def isEven(x):
         return False
 #ends 
 
-print isOdd(7)
-print isOdd(6)
-print isEven(7)
-print isEven(6)
+print(isOdd(7))
+print(isOdd(6))
+print(isEven(7))
+print(isEven(6))

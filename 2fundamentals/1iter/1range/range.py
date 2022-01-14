@@ -1,3 +1,3 @@
 #range(5)
-for number in range(15):
+for number in range(10):
     print(number)
