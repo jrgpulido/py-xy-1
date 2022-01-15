@@ -1,0 +1,3 @@
+#10 elements
+#id, cat+id, weight
+#7, cat7,.756
