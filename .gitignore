@@ -1,7 +1,8 @@
 #
 .DS_Store
 .idea
-.spyder-py3
+.spyproject
+#.spyder-py3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
