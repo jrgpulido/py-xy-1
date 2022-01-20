@@ -3,12 +3,12 @@
 #1
 mins = [1, 2, 3]
 secs = [m * 60 for m in mins]
-print secs
+print(secs)
 
 #2
 lower = ["I", "don't", "like", "spam"]
 upper = [s.upper() for s in lower]
-print upper
+print(upper)
 
 #3 greater
 [x for x in [3,-2,1] if x>2]
