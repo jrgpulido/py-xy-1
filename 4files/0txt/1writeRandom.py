@@ -9,3 +9,5 @@ for k in range(3):
     fh.write(str(r.random())+'\n')    
 
 fh.close()
+
+print('done...')
