@@ -13,7 +13,7 @@ class Point:
         return self.x, self.y
 
     def distance(self,p):
-        if isinstance(p,Point):#validate
+        if isinstance(p,Point):
             x1 = p.x
             y1 = p.y
             x2 = self.x
@@ -22,31 +22,5 @@ class Point:
         else:
             print('Point is required')
 
-    def angle(self):#validate2do
-        return m.atan(self.y/self.x)#radians
-
-
-#
-######### useClass
-#
-# import Geometry as g
-#
-
-p1 = Point(1,-1)
-p3 = Point()
-
-print(type(p1))
-print(type(p1.x))
-print(p1.y)
-p1.y=4
-print(p1.y)
-print(type(p1.getPoint()))
-print(p1.getPoint())
-
-print(p3.distance(p1))
-print(p1.distance(p3))
-print(p1.distance(p3.x))
-print(p1.angle())
-
-
-print('done...')
+    def angle(self):#validate
+        return m.atan(self.y/self.x)

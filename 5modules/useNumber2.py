@@ -16,4 +16,3 @@ print(n.isNegative(6))
 
 print(n.isPositive(0))
 print(n.isNegative(0))
-
