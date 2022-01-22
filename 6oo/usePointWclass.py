@@ -29,8 +29,7 @@ class Point:
 #
 ######### useClass
 #
-# import Geometry as g
-#
+
 
 p1 = Point(1,-1)
 p3 = Point()

@@ -52,5 +52,12 @@ c.outCircle(p1)
 c.outCircle(p2)
 c.outCircle(p3)
 
-p2=p3
-
+#
+# try
+#
+print(type(Circle))
+isinstance(c,Circle)
+print(type(p))
+isinstance(p1,p.Point)
+print(type(p.Point))
+print(p.Point().getPoint())
