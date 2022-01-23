@@ -1,3 +1,7 @@
+#
+# do NOT forget to reuse
+#
+
 def isOdd(x):
     return not isEven(x)
 #ends

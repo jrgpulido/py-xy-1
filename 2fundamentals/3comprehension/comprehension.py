@@ -1,5 +1,5 @@
 #
-# imperative
+# imperative way
 #
 
 #neater

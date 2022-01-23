@@ -30,7 +30,8 @@ class Circle:
         
 
 #
-######### useClass
+# useClass
+# stepByStep
 #
 
 c=Circle(p.Point(0,0),1)

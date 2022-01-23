@@ -1,4 +1,7 @@
-#as obj
+#
+# sets 
+#
+
 a = {'a', 'b', 'c'}
 a
 
@@ -10,9 +13,11 @@ a.update([3,4,5,6])
 a.update('jrgp')#difference
 a
 
-1 in a
-'c' in a
-
 for num in a:
   print(num)
 
+#
+#stepByStep
+#
+1 in a
+'c' in a

@@ -9,4 +9,5 @@ with open('list.bin','rb') as fh:
 
 print(type(aList))
 print(aList)
+
 print('done...')

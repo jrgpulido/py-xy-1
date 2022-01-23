@@ -6,10 +6,9 @@ anEmptyStr = ''
 aStr = "abc"
 
 multiline='''This a 
+multi-line... 
 
-multi-line 
-
-string
+...string
 '''
 
 print(multiline)

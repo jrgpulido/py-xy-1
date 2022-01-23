@@ -1,4 +1,8 @@
-anEmptyTuple = ()#immutable faster than lists
+#
+#immutable faster than lists
+#
+
+anEmptyTuple = ()
 aTuple = 1,'NSA',4
 
 print(aTuple)

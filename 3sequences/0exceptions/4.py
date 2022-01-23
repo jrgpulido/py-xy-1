@@ -1,4 +1,7 @@
 #
+# exception try block
+#
+
 try:
     raise NameError('HiThere')
 except NameError:

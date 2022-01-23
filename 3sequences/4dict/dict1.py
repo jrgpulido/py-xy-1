@@ -1,7 +1,8 @@
 #
-#stepbystep
+# dictionaries
 #
 
+#stepbystep
 employees={}
 e1={'jrg':{'name':'jrg','last':'pulido','email':'@ucol'}}
 e2={'jrg2':{'name':'jrg2','last':'pulido','email':'@ucol2'}}
@@ -19,5 +20,9 @@ employees.values()
 #
 #py2
 #
-employees.has_key('jrg2')
-employees.has_key('jrg3')
+#employees.has_key('jrg2')
+#employees.has_key('jrg3')
+#vs
+#py3
+e1.__contains__('jrg')
+e1.__contains__('')

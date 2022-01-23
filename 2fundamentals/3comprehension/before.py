@@ -1,7 +1,6 @@
 #
-# before
-# comprehension
-# declarative
+# before comprehension
+# declarative WAY
 #
 
 r = []
