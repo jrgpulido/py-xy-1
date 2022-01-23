@@ -31,7 +31,7 @@ q=50
 for k in range(q):    
     id=r.randint(1, q)
     c=Cat(id,'name'+str(id),r.randint(1, 7))
-    #print(c.getCat())
+    print(c.getCat())
     
 
     
