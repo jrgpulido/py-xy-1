@@ -1,9 +1,5 @@
 #
-# read n and print
+# read n
+# print triangular numbers
 #
-
-n=11
-s=0
-for k in range(n):
-    s+=k
-    print(s)
+# https://www.mathsisfun.com/algebra/triangular-numbers.html

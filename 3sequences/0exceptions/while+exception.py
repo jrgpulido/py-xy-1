@@ -3,5 +3,5 @@
 #
 
 while(1):
-    print('ctr c to end...')
+    print('ctrl c to end...')
 #KeyboardInterrupt    

@@ -1,4 +1,4 @@
 #
-# one coin flip 
+# one coin flips
 # place here your solution code
 #

@@ -15,5 +15,6 @@ def isEven(x):
 
 print(isOdd(7))
 print(isOdd(6))
+
 print(isEven(7))
 print(isEven(6))

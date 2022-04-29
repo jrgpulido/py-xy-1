@@ -1,0 +1,3 @@
+#
+# generate one dice throw
+#

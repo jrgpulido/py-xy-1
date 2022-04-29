@@ -1,6 +1,6 @@
 #
 # read n
 # then read n grades
-# calculate avg
-# print avg
+# calculate the average of those
+# print the average
 #

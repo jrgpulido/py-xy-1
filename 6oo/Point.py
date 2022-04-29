@@ -5,7 +5,7 @@
 import math as m
 
 class Point:
-    def __init__(self, x=0, y=0):#constructor
+    def __init__(self, x=0.0, y=0.0):#constructor
         self.x = x
         self.y = y
         #self.name = 'noName'

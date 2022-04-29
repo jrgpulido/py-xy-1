@@ -11,4 +11,5 @@ upper = [s.upper() for s in lower]
 print(upper)
 
 #3 greater
-[x for x in [3,-2,1] if x>2]
+y=[x for x in [3,-2,1] if x>2]
+print(y)

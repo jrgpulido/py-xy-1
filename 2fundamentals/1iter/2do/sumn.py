@@ -1,9 +1,5 @@
 #
-# read n and print
+# read n
+# read n values
+# print its sum
 #
-
-n=3
-
-for k in range(n):
-    q=input('valor? ')
-    print(k+1, q)
